@@ -6,7 +6,9 @@ export default makeStyles((theme) => ({
     [theme.breakpoints.up('sm')]: {
       display: 'block',
     },
+    
   },
+  
   search: {
     position:'relative',
     borderRadius: theme.shape.borderRadius,
